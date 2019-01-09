@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   ssgs.plist
+   AreaPlistFile
+
+   Created by ZMMacBook on 2018/11/28.
+   Copyright (c) 2018年 ZMMacBook. All rights reserved.
+ 
+   移动办公系统
+-->
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>http://yfss.yunfu.gov.cn:8179/web/ssdj/webapp/ssgspt_ipad_20160114_v1.0.ipa</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>zm.iPad</string>
+                    <key>bundle-version</key>
+                    <string>1.0</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>商事公示平台</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
